@@ -8,37 +8,73 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Parcial
 build_property.RootNamespace = Parcial
-build_property.ProjectDir = C:\Users\Jonat\source\repos\Parcial\Parcial\
+build_property.ProjectDir = C:\Users\Jonat\Documents\GitHub\Parcial\Parcial\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Jonat\source\repos\Parcial\Parcial
+build_property.MSBuildProjectDirectory = C:\Users\Jonat\Documents\GitHub\Parcial\Parcial
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Jonat/source/repos/Parcial/Parcial/Pages/Error.cshtml]
+[C:/Users/Jonat/Documents/GitHub/Parcial/Parcial/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jonat/source/repos/Parcial/Parcial/Pages/Index.cshtml]
+[C:/Users/Jonat/Documents/GitHub/Parcial/Parcial/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jonat/source/repos/Parcial/Parcial/Pages/Privacy.cshtml]
+[C:/Users/Jonat/Documents/GitHub/Parcial/Parcial/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jonat/source/repos/Parcial/Parcial/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Jonat/Documents/GitHub/Parcial/Parcial/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jonat/source/repos/Parcial/Parcial/Pages/_ViewImports.cshtml]
+[C:/Users/Jonat/Documents/GitHub/Parcial/Parcial/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jonat/source/repos/Parcial/Parcial/Pages/_ViewStart.cshtml]
+[C:/Users/Jonat/Documents/GitHub/Parcial/Parcial/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jonat/source/repos/Parcial/Parcial/Pages/Shared/_Layout.cshtml]
+[C:/Users/Jonat/Documents/GitHub/Parcial/Parcial/Views/Home/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonat/Documents/GitHub/Parcial/Parcial/Views/Home/Exito.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFeGl0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonat/Documents/GitHub/Parcial/Parcial/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonat/Documents/GitHub/Parcial/Parcial/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonat/Documents/GitHub/Parcial/Parcial/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonat/Documents/GitHub/Parcial/Parcial/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonat/Documents/GitHub/Parcial/Parcial/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonat/Documents/GitHub/Parcial/Parcial/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonat/Documents/GitHub/Parcial/Parcial/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-t3n2p8fl9q
+
+[C:/Users/Jonat/Documents/GitHub/Parcial/Parcial/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7tkfltwsb4

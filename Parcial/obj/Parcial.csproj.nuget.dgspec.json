@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jonat\\source\\repos\\Parcial\\Parcial\\Parcial.csproj": {}
+    "C:\\Users\\Jonat\\Documents\\GitHub\\Parcial\\Parcial\\Parcial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jonat\\source\\repos\\Parcial\\Parcial\\Parcial.csproj": {
+    "C:\\Users\\Jonat\\Documents\\GitHub\\Parcial\\Parcial\\Parcial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jonat\\source\\repos\\Parcial\\Parcial\\Parcial.csproj",
+        "projectUniqueName": "C:\\Users\\Jonat\\Documents\\GitHub\\Parcial\\Parcial\\Parcial.csproj",
         "projectName": "Parcial",
-        "projectPath": "C:\\Users\\Jonat\\source\\repos\\Parcial\\Parcial\\Parcial.csproj",
+        "projectPath": "C:\\Users\\Jonat\\Documents\\GitHub\\Parcial\\Parcial\\Parcial.csproj",
         "packagesPath": "C:\\Users\\Jonat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jonat\\source\\repos\\Parcial\\Parcial\\obj\\",
+        "outputPath": "C:\\Users\\Jonat\\Documents\\GitHub\\Parcial\\Parcial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",

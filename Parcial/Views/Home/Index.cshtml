@@ -1,0 +1,25 @@
+﻿@model Parcial.Models.Multiplo
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="color">
+    <form asp-controller="Home" asp-action="Multiplo">
+
+        <div class="card">
+
+            @Html.LabelFor(m => m.Monto)
+
+            @Html.TextBoxFor(m => m.Monto, new { type = "number" })
+
+            @Html.ValidationMessageFor(m => m.Monto, null)
+
+           <button class="btn  btn-outline-success">Enviar</button>
+       </div>
+    </form>
+</div>
